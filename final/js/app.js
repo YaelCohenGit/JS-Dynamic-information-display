@@ -3,7 +3,7 @@ var subjects = [];
 var extendedTable = [];
 const titles = ["subjectName", "hoursPerWeek", "teachersName", "classroomNum", "testsNum"];
 function uploadSchedule() {
-  fetch("http://127.0.0.1:5500/json/schedule.json", {
+  fetch("../json/schedule.json", {
   }).then((response) => { return response.json() })
     .then((response) => { subjects = response, createTable(response) })
     .catch((err) => { console.log(err) })

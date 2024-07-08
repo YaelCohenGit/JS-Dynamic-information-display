@@ -87,6 +87,6 @@ function saveUserInLocalStorage(user) {
     localStorage.setItem('loggedIn', storedUserCorrect);
 }
 
-function start(){
-    location.href='../html/index.html';
+function start() {
+    location.href = '../html/index.html';
 }
