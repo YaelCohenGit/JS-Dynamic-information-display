@@ -2,7 +2,7 @@
     {
         "subjectName": "Math",
         "hoursPerWeek": 5,
-        "teachersName": "Rachel",
+        "teachersName": "Rachel Safra",
         "classroomNum": 433,
         "testsNum": 6
     },
@@ -15,29 +15,29 @@
     },
     {
         "subjectName": "C#",
-        "hoursPerWeek": 1,
-        "teachersName": "Raizy",
+        "hoursPerWeek": 10,
+        "teachersName": "Shoshana Levi",
         "classroomNum": 265,
         "testsNum": 1
     },
     {
         "subjectName": "Python",
         "hoursPerWeek": 4,
-        "teachersName": "Tamar",
+        "teachersName": "Tamar Solomon",
         "classroomNum": 6,
         "testsNum": 2
     },
     {
         "subjectName": "SQL",
-        "hoursPerWeek": 1.5,
-        "teachersName": "Chaya Shif",
+        "hoursPerWeek": 3.5,
+        "teachersName": "Chaya Schif",
         "classroomNum": 3,
         "testsNum": 0
     },
     {
-        "subjectName": "Algorithmms",
-        "hoursPerWeek": 1.5,
-        "teachersName": "Yehudis Rosental",
+        "subjectName": "Algorithms",
+        "hoursPerWeek": 7.5,
+        "teachersName": "Yehudit Rosental",
         "classroomNum": 512,
         "testsNum": 2
     },
@@ -65,77 +65,77 @@
     {
         "subjectName": "English",
         "hoursPerWeek": 3,
-        "teachersName": "mrs. Lerner",
+        "teachersName": "Tova Lerner",
         "classroomNum": 120,
         "testsNum": 2
     },
     {
         "subjectName": "Torah",
         "hoursPerWeek": 5,
-        "teachersName": "Rachel",
+        "teachersName": "Rachel Suton",
         "classroomNum": 431,
         "testsNum": 6
     },
     {
         "subjectName": "Navi",
         "hoursPerWeek": 3,
-        "teachersName": "Leah",
+        "teachersName": "Leah Amzaleg",
         "classroomNum": 432,
         "testsNum": 2
     },
     {
         "subjectName": "History",
         "hoursPerWeek": 3,
-        "teachersName": "Sara",
+        "teachersName": "Sara Sussman",
         "classroomNum": 433,
         "testsNum": 3
     },
     {
         "subjectName": "Geography",
         "hoursPerWeek": 2,
-        "teachersName": "Rivka",
+        "teachersName": "Rivka Unger",
         "classroomNum": 434,
         "testsNum": 1
     },
     {
         "subjectName": "Art",
         "hoursPerWeek": 2,
-        "teachersName": "Miriam",
+        "teachersName": "Miriam Erez",
         "classroomNum": 435,
         "testsNum": 0
     },
     {
         "subjectName": "Gymnesticks",
         "hoursPerWeek": 2,
-        "teachersName": "Chana",
+        "teachersName": "Chana Ben Porat",
         "classroomNum": 531,
         "testsNum": 1
     },
     {
         "subjectName": "Science",
         "hoursPerWeek": 3,
-        "teachersName": "Avigail",
+        "teachersName": "Avigail Fisher",
         "classroomNum": 532,
         "testsNum": 4
     },
     {
         "subjectName": "Yahadut",
         "hoursPerWeek": 5,
-        "teachersName": "Devorah",
+        "teachersName": "Devorah Grant",
         "classroomNum": 533,
         "testsNum": 3
     },
     {
         "subjectName": "Dinim",
         "hoursPerWeek": 2,
-        "teachersName": "Esther",
+        "teachersName": "Esther Atias",
         "classroomNum": 534,
         "testsNum": 2
     },
     {
         "subjectName": "Music",
         "hoursPerWeek": 1,
-        "teachersName": "Shulamit",
+        "teachersName": "Shulamit Hershkowitz",
         "classroomNum": 535,
         "testsNum": 1
     }

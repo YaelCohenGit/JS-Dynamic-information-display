@@ -7,19 +7,28 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Schedule Display</title>
     <link rel="stylesheet" href="../css/style.css">
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </head>
 
-<body>
-    <h1 id="my">13th's grade schedule display</h1>
-    <form class="search-container">
-        <input type="text" id="search-bar" placeholder="Search for a specific data...">
-        <a href="#" onclick="Search()">
+<body class="container">
+    <div class="text-center my-4">
+        <h1 id="my">13th Grade Schedule Display</h1>
+    </div>
+    <form class="form-inline justify-content-center mb-4">
+        <input type="text" id="search-bar" class="form-control mr-2" placeholder="Search for a specific data...">
+        <a href="#" class="btn btn-light" onclick="Search()">
             <img class="search-icon" id="img" src="../img/icon.PNG" />
         </a>
     </form>
-    <button onclick="uploadSchedule()">For all informatiom</button>
-    <button onclick="addInformation()">Add informatiom</button>
-    <div id="insertText"></div>
-    <div id="table"></div>
+    <div class="text-center mb-4">
+        <button class="btn btn-primary" onclick="uploadSchedule()">For all information</button>
+        <button class="btn btn-secondary" onclick="addInformation()">Add information</button>
+    </div>
+    <div id="insertText" class="mb-4"></div>
+    <div id="table" class="table-responsive"></div>
 </body>
 <script src="../js/app.js"></script>
+</html>
